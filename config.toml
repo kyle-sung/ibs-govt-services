@@ -1,4 +1,4 @@
-baseURL = "http://www.ibsgovernmentservices.com/"
+baseURL = "https://kyle-sung.github.io/ibs-govt-services/"
 languageCode = "en-us"
 title = "IBS Government Services"
 theme = "hugo-serif-theme"
