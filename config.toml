@@ -1,0 +1,35 @@
+baseURL = "http://www.ibsgovernmentservices.com/"
+languageCode = "en-us"
+title = "IBS Government Services"
+theme = "hugo-serif-theme"
+publishDir = "docs"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "We provide innovative business solutions (IBS) in today's dynamic Government environment.  This unique capability distinguishes IBS Government Services from other organizations because we quickly gain an in-depth insight of your business needs and become an integral advisors to your management team."
+    meta_og_title = "IBS Government Services"
+    meta_og_type = "website"
+    meta_og_url = "http://www.ibsgovernmentservices.com/"
+    meta_og_description = "We provide innovative business solutions (IBS) in today's dynamic Government environment.  This unique capability distinguishes IBS Government Services from other organizations because we quickly gain an in-depth insight of your business needs and become an integral advisors to your management team."
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 2
+
+[[menu.main]]
+	name = "Careers"
+	url = "/careers/"
+	weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
