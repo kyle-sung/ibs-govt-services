@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on IBS Government Services</title>
+    <link>http://www.ibsgovernmentservices.com/services/</link>
+    <description>Recent content in Services on IBS Government Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate>
+    
+	<atom:link href="http://www.ibsgovernmentservices.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audit Remediation Services</title>
+      <link>http://www.ibsgovernmentservices.com/services/remediation-services/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://www.ibsgovernmentservices.com/services/remediation-services/</guid>
+      <description>We provide audit support, readiness, and remediation, as well as liaison assistance with external stakeholders such as the Office of Inspector General (OIG), Government Accountability Office (GAO), and independent public accountants (IPAs).
+CFO Act audit support, readiness, and remediation IT audit and technology risk support Technical consultation on accounting matters in accordance with FASAB, FAM, FFMIA, FMFIA, GAGAS, OMB, and GAO regulations</description>
+    </item>
+    
+    <item>
+      <title>Financial Management Services</title>
+      <link>http://www.ibsgovernmentservices.com/services/financial-management/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://www.ibsgovernmentservices.com/services/financial-management/</guid>
+      <description>We provide a wide array of financial management services to our Federal Government clients such as accounting budgeting, and financial reporting support.
+ Budget Formulation and Execution Acquisition Management Financial Program Management Accounting Operations and Services  </description>
+    </item>
+    
+    <item>
+      <title>Agency Compliance Support</title>
+      <link>http://www.ibsgovernmentservices.com/services/compliance-support/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://www.ibsgovernmentservices.com/services/compliance-support/</guid>
+      <description>We provide expertise and hands-on support to help agencies achieve compliance with limited budgets. Our process improvement, risk management, and regulations experts work with clients to improve the processes and controls needed to achieve compliance in the most efficient manner possible.
+ OMB A-123 Appendix A, B, C Federal Financial Management Improvement Act (FFMIA) Federal Managers Financial Integrity Act (FMFIA) Federal Information Security Management Act (FISMA)  </description>
+    </item>
+    
+  </channel>
+</rss>
